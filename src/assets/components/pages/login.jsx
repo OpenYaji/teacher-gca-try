@@ -15,7 +15,7 @@ const ROLES = {
         id: 'admin',
         label: 'Admin',
         icon: UserCog,
-        url: 'https://admin.gcanovaliches.com'
+        url: 'https://admin.gcanovaliches.netlify.app'
     },
     REGISTRAR: {
         id: 'registrar',
