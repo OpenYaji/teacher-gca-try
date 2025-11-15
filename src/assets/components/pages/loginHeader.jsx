@@ -5,12 +5,11 @@ import { Link } from 'react-router-dom';
 const LoginHeader = () => {
 
 
-
     return (
         <header className='w-full shadow-md sticky top-0 z-50'>
             <div className='flex justify-between items-center h-16 sm:h-20 bg-gray-100 dark:bg-gray-800 px-4 sm:px-0 transition-colors duration-300'>
                 <div className='flex items-center'>
-                    <Link to="/">
+                    <Link to="'https://gcanovaliches.vercel.app'">
                         <img
                             src={Logo}
                             alt='Gymnazo'

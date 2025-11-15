@@ -9,7 +9,7 @@ const ROLES = {
         id: 'student',
         label: 'Student',
         icon: GraduationCap,
-        url: 'https://student.gcanovaliches.com'
+        url: 'https://gcanovaliches.vercel.app'
     },
     ADMIN: {
         id: 'admin',
