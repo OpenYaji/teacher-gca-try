@@ -15,13 +15,13 @@ const ROLES = {
         id: 'admin',
         label: 'Admin',
         icon: UserCog,
-        url: 'https://admin.gcanovaliches.netlify.app'
+        url: 'https://admin-gcanovaliches.netlify.app'
     },
     REGISTRAR: {
         id: 'registrar',
         label: 'Registrar',
         icon: ClipboardList,
-        url: 'https://sqcholar.netlify.app'
+        url: 'https://registrar-gcanovaliches.netlify.app'
     },
     TEACHER: {
         id: 'teacher',
@@ -32,7 +32,7 @@ const ROLES = {
         id: 'guard',
         label: 'Guard',
         icon: Shield,
-        url: 'https://guard.gcanovaliches.com'
+        url: 'https://guard-gcanovaliches.netlify.app'
     }
 };
 
